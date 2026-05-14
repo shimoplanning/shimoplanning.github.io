@@ -17,3 +17,8 @@ Lightweight HTTPS health check application for Android.
 ## Privacy Policy
 
 See privacy-policy.html
+
+## Language
+
+This sample page and privacy policy are provided in English.
+The Android application UI is currently Japanese only.
