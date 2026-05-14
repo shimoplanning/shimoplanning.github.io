@@ -11,7 +11,7 @@ Lightweight HTTPS health check application for Android.
 
 - /health/ok.json
 - /health/warning.json
-- /health/error.json
+- /health/broken.json
 - /health/ok.txt
 
 ## Privacy Policy
