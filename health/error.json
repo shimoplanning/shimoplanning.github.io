@@ -1,6 +1,5 @@
 {
-  "id": "site_id_01",
   "name": "api-main",
   "ts": "2026-05-14T12:00:00+09:00",
-  "status": "ERROR"
+  "status": "OK"
 }
